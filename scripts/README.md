@@ -8,7 +8,7 @@
 - Show cute animals
 - Show links to assets
 
-##SCRIPTS from around the web
+##SCRIPTS from arround the web
 
 - All GitHub scripts: https://github.com/github/hubot-scripts/tree/master/src/scripts
 - How to create: https://github.com/github/hubot/blob/master/docs/scripting.md
